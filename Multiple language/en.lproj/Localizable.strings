@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Multiple language
+
+  Created by Rohit on 16/07/25.
+  
+*/
+
+"Chat" = "Chat";
+"History" = "History";
+"Recharge" = "Recharge";
+"Wallet" = "Wallet";
+
+
+//"chat_button" = "बात करीं";
+//"welcome_title" = "एप में रउआ स्वागत बा";
+//"Chat" = "बात करीं";
+//"History" = "बात करीं";
+//"Recharge" = "एप में रउआ स्वागत बा";
+//"Wallet" = "एप में रउआ स्वागत बा";
+//

@@ -13,6 +13,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // SceneDelegate.swift → scene(_:willConnectTo:)
+        let savedLanguage = UserDefaults.standard.string(forKey: "AppLanguage") ?? "en"
+        LocalizationManager.shared.currentLanguage = savedLanguage
+
         // Override point for customization after application launch.
         return true
     }

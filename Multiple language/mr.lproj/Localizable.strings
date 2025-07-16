@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Multiple language
+
+  Created by Rohit on 16/07/25.
+  
+*/
+
+"Chat" = "Bienvenue dans l'application french CHAT";
+"History" = "Discussion french HISTORY";
+"Recharge" = "Bienvenue dans l'application french RECHARGE";
+"Wallet" = "Discussion french WALLET";
